@@ -24,6 +24,8 @@ To use the weather app:
 
 1. Clone this repository.
 2. Open `index.html` in a web browser.
+![image](https://github.com/manasvi0109/Weather-App/assets/171707742/9a95cd78-5bbd-496e-806a-305384bf34ab)
+
 
 ## Usage
 
